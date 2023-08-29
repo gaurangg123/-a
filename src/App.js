@@ -14,7 +14,7 @@ function App() {
   return (
     <>
     <div>
-      <button className='btn btn-primary' onClick={getData}>Get News</button>
+      <button className='btn btn-secondary' onClick={getData}>Get News</button>
     </div>
     <div className='container'>
       <div className='row'>
